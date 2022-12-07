@@ -1,0 +1,14 @@
+{
+  "name": "sealing13479",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "tcas65 Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ tcas65 เว็บเดิมพันออนไลน์ เว็บตรง เว็บเดียวเล่นได้ครบจบทุกเกม",
+  "keywords": [
+    "tcas65 Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ tcas65 เว็บเดิมพันออนไลน์ เว็บตรง เว็บเดียวเล่นได้ครบจบทุกเกม"
+  ],
+  "repository": "https://github.com/yorkinyellow/sealing13479",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
